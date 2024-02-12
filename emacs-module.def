@@ -1,0 +1,3 @@
+LIBRARY		emacs-module
+EXPORTS
+	emacs_module_init @1
